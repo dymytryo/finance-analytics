@@ -1,0 +1,7 @@
+.DS_Store
+source/
+*.docx
+*.doc
+*.xlsx
+*.xls
+~$*

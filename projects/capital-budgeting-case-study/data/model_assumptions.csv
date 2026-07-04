@@ -1,0 +1,9 @@
+assumption,value,notes
+inflation_rate,1.25%,used to account for expected cost and revenue changes
+nominal_cost_of_capital_goods,8.5%,used in discounting assumptions
+tax_rate,35%,used to estimate after-tax cash flows and tax shield effects
+basic_overhaul_life_extension,12 years,expected additional service life after basic overhaul
+advanced_overhaul_life_extension,12 years,expected additional service life after advanced overhaul
+new_vessel_life,20 years,expected operating life for replacement vessel
+new_vessel_purchase_price,$3,000,000,paid in two installments
+training_cost,$50,000,one-time tax-deductible training cost

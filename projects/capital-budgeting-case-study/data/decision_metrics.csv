@@ -1,0 +1,6 @@
+option,horizon_years,metric,value_usd,interpretation
+basic_overhaul,12,npv_of_cost,-6261849.33,baseline repair option
+advanced_overhaul,12,npv_of_cost,-5946740.88,lower present-value cost than basic overhaul
+basic_overhaul,12,equivalent_annual_cost,-756044.76,higher annualized cost than advanced overhaul
+advanced_overhaul,12,equivalent_annual_cost,-717999.12,lower annualized repair cost
+new_vessel,20,equivalent_annual_cost,-618931.03,lowest annualized long-term cost
