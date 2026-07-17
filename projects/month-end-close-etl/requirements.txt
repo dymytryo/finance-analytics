@@ -1,0 +1,7 @@
+boto3
+botocore
+pandas
+awswrangler
+python-dateutil
+trino
+apache-airflow

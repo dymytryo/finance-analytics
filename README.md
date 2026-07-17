@@ -9,6 +9,7 @@ This repository is intentionally organized as a portfolio collection, not as an 
 | Project | Techniques | Portfolio Signal |
 | --- | --- | --- |
 | [Capital Budgeting Case Study](projects/capital-budgeting-case-study) | NPV, equivalent annual cost, tax shield modeling, option comparison | Financial modeling, long-horizon decision analysis, executive recommendation framing |
+| [Month-End Close ETL](projects/month-end-close-etl) | Config-driven AWS Glue jobs, business-day Airflow orchestration, processor file normalization, NetSuite journal-entry generation, KMS-encrypted outbound | Finance data engineering: close automation with controllership-grade outputs |
 
 ## Repository Pattern
 
